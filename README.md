@@ -1,2 +1,2 @@
-# SC_302_Documentacion_MN_Edmilson
-Repositorio del laboratorio de SCV - GitHub
+alert("hola mundo_editado");
+console.log("cambios en el archivo");
